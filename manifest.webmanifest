@@ -1,0 +1,28 @@
+{
+ "name": "Spam Shield \u2014 AI Spam Detector",
+ "short_name": "Spam Shield",
+ "description": "Detect spam SMS, emails and WhatsApp scams in your browser with a Naive Bayes model you can inspect. Free, private, no uploads.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#e11d48",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
